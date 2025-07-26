@@ -1,0 +1,18 @@
+.toolbar {
+    margin-bottom: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+  .toolbar button {
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  .editor-content {
+    border: 1px solid #bebcbc;
+    padding: 15px;
+    min-height: 200px;
+    border-radius: 8px;
+  }
+  
